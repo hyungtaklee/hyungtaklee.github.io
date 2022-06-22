@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Posts"
+    url: "/"
+  - title: "Archives"
+    url: /archives/
+  - title: "About"
+    url: /about
