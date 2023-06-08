@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+{% include_relative _contents/bio.md %}
+
+--- 
+
+{% include_relative _contents/publications.md %}
