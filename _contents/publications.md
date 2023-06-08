@@ -1,7 +1,7 @@
 <!-- From: https://www.siddkaramcheti.com/ -->
 ## Publications
 
-### 2023
+### 2022
 [Robust Data Augmentation Generative Adversarial Network for Object Detection](https://www.mdpi.com/1424-8220/23/1/157)  
 **Hyungtak Lee**, Seongju Kang, and Kwangsue Chung.  
 *Sensors*, Dec 2022 (SCIE, IF: 3.847)
