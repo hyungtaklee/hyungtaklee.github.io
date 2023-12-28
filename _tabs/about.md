@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+<object data="/assets/docs/resume_hyungtak_lee.pdf" width="100%" height="1080px" type='application/pdf'></object>
