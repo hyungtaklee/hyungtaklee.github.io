@@ -4,4 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<object data="/assets/docs/resume_hyungtak_lee.pdf" width="100%" height="1080px" type='application/pdf'></object>
+<object data="/assets/docs/resume_hyungtak_lee.pdf" type="application/pdf" style="min-height:100vh;width:100%"></object>
